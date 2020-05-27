@@ -1,3 +1,5 @@
+This requires Rocker https://github.com/osrf/rocker to enable OpenGL support and simplify the running. 
+See more detailed instructions from the homepage.
 
 Running:
 
